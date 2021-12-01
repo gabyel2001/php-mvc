@@ -2,7 +2,7 @@
 
 class m0001_initial
 {
-    private \theworker\phpmvc\Database $db;
+    private \theworker\phpmvc\db\Database $db;
 
     public function __construct()
     {

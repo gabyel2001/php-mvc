@@ -2,7 +2,7 @@
 
 class m0002_add_password_column
 {
-    private \theworker\phpmvc\Database $db;
+    private \theworker\phpmvc\db\Database $db;
 
     public function __construct()
     {
