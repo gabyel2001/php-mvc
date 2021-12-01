@@ -14,6 +14,6 @@
     "require": {
         "vlucas/phpdotenv": "^4.2",
       "ext-pdo": "*",
-        "theworker/php-mvc-core": "^v1.0.3"
+        "theworker/php-mvc-core": "^v1.0.5"
     }
 }

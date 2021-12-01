@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c1479fd2d1c650b9eaf85a1bba52a188",
+    "content-hash": "cf6a75a3168155702cd133ff559ad890",
     "packages": [
         {
             "name": "phpoption/phpoption",
@@ -156,16 +156,16 @@
         },
         {
             "name": "theworker/php-mvc-core",
-            "version": "v1.0.3",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gabyel2001/php-mvc-core.git",
-                "reference": "3c40a5731d81783f5545c40ac482dac989b233e9"
+                "reference": "2ad1da87d4c4643be2252f04a8ef6ea9da2fa877"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gabyel2001/php-mvc-core/zipball/3c40a5731d81783f5545c40ac482dac989b233e9",
-                "reference": "3c40a5731d81783f5545c40ac482dac989b233e9",
+                "url": "https://api.github.com/repos/gabyel2001/php-mvc-core/zipball/2ad1da87d4c4643be2252f04a8ef6ea9da2fa877",
+                "reference": "2ad1da87d4c4643be2252f04a8ef6ea9da2fa877",
                 "shasum": ""
             },
             "type": "library",
@@ -183,9 +183,9 @@
             ],
             "support": {
                 "issues": "https://github.com/gabyel2001/php-mvc-core/issues",
-                "source": "https://github.com/gabyel2001/php-mvc-core/tree/v1.0.3"
+                "source": "https://github.com/gabyel2001/php-mvc-core/tree/v1.0.5"
             },
-            "time": "2021-12-01T14:46:54+00:00"
+            "time": "2021-12-01T21:51:29+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
