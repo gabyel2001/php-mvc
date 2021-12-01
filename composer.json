@@ -1,0 +1,19 @@
+{
+    "name": "gabriel.berza/mvc_php",
+    "authors": [
+        {
+            "name": "Gabriel Berza",
+            "email": "gabriel.berza@htss.ro"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^4.2",
+      "ext-pdo": "*",
+        "theworker/php-mvc-core": "^v1.0.3"
+    }
+}
